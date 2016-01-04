@@ -1,0 +1,127 @@
+#b1{
+    background-image: url("P.png");
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position: 700px 200px;
+}
+#b2{
+    background-image: url("P.png");
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position: 300px 400px;
+}
+#maindiv1{
+    margin-left: 150px;
+}
+#dispdiv1{
+    margin-right: 1090px;
+    margin-top: 100px;
+}
+#dispdiv2{
+    margin-left: 100px;
+    margin-top: 250px;
+}#mypic{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border-style: dotted;
+    font-size: larger;
+ }
+ #upldpic{
+     padding-top: 15px;
+     padding-right: 15px;
+     padding-bottom: 15px;
+     padding-left: 15px;
+     border-style: hidden;
+     font-size: larger;
+     width: 240px;
+     color: #E2E2E2;
+     background-color:#2f2f2f;
+ }
+ #dispbody{
+     background-image: url("white%20back%20ground.jpg");
+     background-size: 1366px 720px;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }
+ #image1{
+     margin-left: 1100px;
+     margin-top: -250px;
+ }
+#mainbut1{
+    width: 100px;
+    height: 50px;
+    font-size: larger;
+}
+#mainbut2{
+    width: 100px;
+    height: 50px;
+    font-size: larger;
+    margin-right: 200px;
+}
+#mainbut3{
+    width: 100px;
+    height: 50px;
+    font-size: larger;
+    margin-right: 200px;
+}
+#maindiv2{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+#maindiv3{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+#maindiv5{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+#maindiv4{
+    font-size: xx-large;
+    color: darkmagenta;
+    border-style: double;
+    border-radius: 50px;
+    margin-left: 530px;
+    margin-right: 300px;
+    margin-top: -50px;
+}
+#logdiv1{
+    margin-right: 800px;
+    margin-top: 100px;
+}
+#logdiv2{
+    margin-right: 800px;
+    margin-top: 90px;
+}
+#form1{
+    margin-top: 140px;
+    margin-left: 230px;
+}
+#inputfile{
+    font-size: larger;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#btn2{
+    font-size: larger;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#uplddiv1{
+    margin-top: 100px;
+}
+#h11{
+    margin-top: 100px;
+}
+#main{
+    margin-top: 80px;
+    border-style: groove;
+    margin-left: 300px;
+    margin-right: 300px;
+}
